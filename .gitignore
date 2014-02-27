@@ -34,4 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# virtual env
 .venv
+
+# Google App Key
+secret.py
