@@ -40,3 +40,6 @@ nosetests.xml
 
 # Google App Key
 secret.py
+
+# result csv files
+*.csv
